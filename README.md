@@ -1,13 +1,5 @@
 VITutorial exercises
 
-# Discrete latent variables
-
-* SST
-
-
-# Continous latent variables
-
-* SenVAE
 
 # Install
 
@@ -16,3 +8,14 @@ VITutorial exercises
 * install requirements `pip install -r requirements.txt`
 
 
+# Exercises
+
+**Discrete latent variables**
+
+* SST
+* MNIST (coming soon)
+
+**Continous latent variables**
+
+* SenVAE: [older repo](https://github.com/probabll/dgm4nlp/tree/master/notebooks/sentencevae)
+* MNIST: [older repo](https://github.com/vitutorial/VITutorial/tree/master/code)
