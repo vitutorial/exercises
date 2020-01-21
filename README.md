@@ -17,5 +17,5 @@ VITutorial exercises
 
 **Continous latent variables**
 
-* SenVAE: [older repo](https://github.com/probabll/dgm4nlp/tree/master/notebooks/sentencevae)
+* WordVAE
 * MNIST: [older repo](https://github.com/vitutorial/VITutorial/tree/master/code)
