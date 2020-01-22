@@ -10,6 +10,9 @@ VITutorial exercises
 
 # Exercises
 
+**Sequence Modelling**
+* CharLM
+
 **Discrete latent variables**
 
 * SST
