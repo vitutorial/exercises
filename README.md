@@ -16,6 +16,7 @@ VITutorial exercises
 **Discrete latent variables**
 
 * SST
+* LatentFactorModel
 * MNIST (coming soon)
 
 **Continous latent variables**
