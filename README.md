@@ -11,7 +11,7 @@ VITutorial exercises
 # Exercises
 
 **Sequence Modelling**
-* CharLM
+* CharLM: Start here if you want to learn how to parameterize a probabilistic model with neural networks without latent variable modelling.
 
 **Discrete latent variables**
 
